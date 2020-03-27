@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ulule/limiter/v3"
+	"github.com/n1try/limiter/v3"
 )
 
 // TestStoreSequentialAccess verify that store works as expected with a sequential access.
